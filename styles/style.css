@@ -18,6 +18,10 @@
   --itemBorderRadius: 0.7rem;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   margin: 0;
   padding: 0;
